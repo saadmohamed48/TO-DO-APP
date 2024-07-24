@@ -46,7 +46,5 @@ function showTask(){
 
 showTask
 
-// Keep It Up Ya Dida :)
-
 
 
