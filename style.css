@@ -1,0 +1,44 @@
+*{
+   margin-top:10px;
+}
+h1{
+   margin-bottom: 40px;
+}
+li{
+	list-style:decimal;
+	font-weight: 700;
+}
+
+/* li {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	background: aliceblue;
+	border-radius: 1rem;
+	box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.1);
+} */
+
+/* li::before {
+
+	font-size: 3rem;
+	font-weight: 700;
+	width: 1em;
+	height: 1em;
+	background: black;
+	flex: 0 0 auto;
+	border-radius: 50%;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}  */
+
+ul li.checked{
+   text-decoration: line-through;
+}
+ul li span{
+   
+}
+ul li i{
+   pointer-events: none;
+}
